@@ -62,7 +62,7 @@ $(document).ready(function() {
 
   let h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
   let offset = $("#network").offset();
-  $("#network").height(h - offset.top - 75);
+  $("#network").height(h - offset.top);
 
   $("#c_p").hide();
   $("#error").hide();
