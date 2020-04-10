@@ -1,7 +1,7 @@
  # Mincut Max Flow Graph Simulation
  ## Aim:- Program to simulate the graph using Mincut Max Flow Simulation  <br><br>
 
-###### Technologies Used:-  <br>
+### Technologies Used:-  <br>
 <br>
 JavaScript libraries <br>
 jQuery3.2.1 <br>
