@@ -56,6 +56,6 @@ Path Obtained and their Max flow:-  <br>
   2. Now if we want to change the source and destination we can update the source and destination vertices also . Using the text box provided. <br>
       But these source and destination should have a valid path or else the flow path will not be generated as well as the flow. <br>
   3. If we want to alter the graph we can make use of the edit graph tool to do so.<br>
-        
-  
+  ### Note
+  If the graph behaves abnormally it's recommended to reload and start a fresh graph. :-)
 
