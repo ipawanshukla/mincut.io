@@ -1,29 +1,29 @@
  # Mincut Max Flow Graph Simulation
 <br>
-Aim:- Program to simulate the graph using Mincut Max Flow Simulation <br><br>
+ ## Aim:- Program to simulate the graph using Mincut Max Flow Simulation <br><br>
 <br>
-Technologies Used:-  <br>
+###### Technologies Used:-  <br>
 <br>
 JavaScript libraries <br>
 jQuery3.2.1 <br>
 jQuery UI1.12.1 <br>
 Hammer.js2.0.7 <br>
 <br>
-UI Framework USED:-  <br>
+ ###### UI Framework USED:-  <br>
 Boot Strap 4.0 <br>
 <br>
-Programming Language Used:-  <br>
+ ###### Programming Language Used:-  <br>
 JavaScript <br>
 <br>
-Data Structures Used:- <br>
+###### Data Structures Used:- <br>
 Array <br>
 JSON <br>
 <br>
-Algorithms used:- <br>
+###### Algorithms used:- <br>
 Graph Traversal (DFS) <br>
 Flow(Min Cut Max Flow)<br>
 <br>
-Program Flow:-  <br>
+###### Program Flow:-  <br>
 Consider the directed graph as default in the program. <br>
 Vertices :- S,A,B,C,D,T <br>
 Default Source:- S <br>
@@ -42,7 +42,7 @@ Path Obtained and their Max flow:-  <br>
   s->a->d->t (20) <br>
   s->c->b->t (15) <br>
  <br>
-Direction For Use:- <br>
+###### Direction For Use:- <br>
   1. Suppose we want to insert the path s,a,b,t . We can do this in two ways:- <br>
     a) Step By Step Insertion <br>
     b) Direct Insertion <br>
