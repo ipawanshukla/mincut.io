@@ -1,4 +1,4 @@
-#Mincut Max Flow Graph Simulation
+ #Mincut Max Flow Graph Simulation
 
 Aim:- Program to simulate the graph using Mincut Max Flow Simulation
 
@@ -29,7 +29,7 @@ Vertices :- S,A,B,C,D,T
 Default Source:- S
 Default Destination:- T
 Edges:- 
-  S->A \n
+  S->A <br>
   S->C
   A->B
   A->D
