@@ -1,6 +1,5 @@
  # Mincut Max Flow Graph Simulation
-<br>
- ## Aim:- Program to simulate the graph using Mincut Max Flow Simulation ## <br><br>
+ **Aim:- Program to simulate the graph using Mincut Max Flow Simulation ** <br><br>
 <br>
 ###### Technologies Used:-  <br>
 <br>
