@@ -29,7 +29,7 @@ Vertices :- S,A,B,C,D,T
 Default Source:- S
 Default Destination:- T
 Edges:- 
-  S->A
+  S->A \n
   S->C
   A->B
   A->D
