@@ -8,21 +8,21 @@ jQuery3.2.1 <br>
 jQuery UI1.12.1 <br>
 Hammer.js2.0.7 <br>
 
- ###### UI Framework USED:-  <br>
+ ### UI Framework USED:-  <br>
 Boot Strap 4.0 <br>
 
- ###### Programming Language Used:-  <br>
+ ### Programming Language Used:-  <br>
 JavaScript <br>
 
-###### Data Structures Used:- <br>
+### Data Structures Used:- <br>
 Array <br>
 JSON <br>
 
-###### Algorithms used:- <br>
+### Algorithms used:- <br>
 Graph Traversal (DFS) <br>
 Flow(Min Cut Max Flow)<br>
 
-###### Program Flow:-  <br>
+### Program Flow:-  <br>
 Consider the directed graph as default in the program. <br>
 Vertices :- S,A,B,C,D,T <br>
 Default Source:- S <br>
@@ -41,7 +41,7 @@ Path Obtained and their Max flow:-  <br>
   s->a->d->t (20) <br>
   s->c->b->t (15) <br>
 
-###### Direction For Use:- <br>
+### Direction For Use:- <br>
   1. Suppose we want to insert the path s,a,b,t . We can do this in two ways:- <br>
     a) Step By Step Insertion <br>
     b) Direct Insertion <br>
